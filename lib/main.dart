@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_application/LatihanList.dart';
 
-void main() => runApp(MyApp());
+void main() => runApp(LatihanList());
 
 class MyApp extends StatefulWidget {
   @override
